@@ -1,0 +1,5 @@
+Spring:
+ application:
+  name: foo
+ profiles:
+  Active

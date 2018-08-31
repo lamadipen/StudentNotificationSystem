@@ -12,6 +12,7 @@
     <modules>
         <module>SNSGateWay</module>
         <module>SNSDiscovery</module>
+        <module>SNSConfigServer</module>
     </modules>
 
 </project>
